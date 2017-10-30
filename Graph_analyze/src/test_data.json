@@ -1,0 +1,148 @@
+[
+  {
+    "Bruce Willis": {
+      "json_class": "Actor",
+      "name": "Bruce Willis",
+      "age": 61,
+      "total_gross": 562709189,
+      "movies": [
+        "Iron Man",
+        "A4",
+        "B4",
+        "CS242"
+      ]
+    },
+    "Faye Dunaway": {
+      "json_class": "Actor",
+      "name": "Faye Dunaway",
+      "age": 76,
+      "total_gross": 515893034,
+      "movies": [
+        "Iron Man",
+        "A4",
+        "B4",
+        "CS242"
+      ]
+    },
+    "James Whitmore": {
+      "json_class": "Actor",
+      "name": "James Whitmore",
+      "age": 87,
+      "total_gross": 6269000,
+      "movies": [
+        "Iron Man",
+        "A4"
+      ]
+    },
+    "David Dukes": {
+      "json_class": "Actor",
+      "name": "David Dukes",
+      "age": 55,
+      "total_gross": 0,
+      "movies": [
+        "A4",
+        "B4"
+      ]
+    },
+    "Brenda Vaccaro": {
+      "json_class": "Actor",
+      "name": "Brenda Vaccaro",
+      "age": 74,
+      "total_gross": 110530008,
+      "movies": [
+        "B4"
+      ]
+    },
+    "Martin Gabel": {
+      "json_class": "Actor",
+      "name": "Martin Gabel",
+      "age": 73,
+      "total_gross": 0,
+      "movies": [
+        "B4"
+      ]
+    },
+    "Anthony Zerbe": {
+      "json_class": "Actor",
+      "name": "Anthony Zerbe",
+      "age": 80,
+      "total_gross": 0,
+      "movies": [
+        "CS242",
+        "Iron Man"
+      ]
+    },
+    "Paul Newman": {
+      "json_class": "Actor",
+      "name": "Paul Newman",
+      "age": 74,
+      "total_gross": 473846425,
+      "movies": [
+        "CS242"
+      ]
+    },
+    "Charlotte Rampling": {
+      "json_class": "Actor",
+      "name": "Charlotte Rampling",
+      "age": 71,
+      "total_gross": 0,
+      "movies": [
+      ]
+    }
+  },
+
+
+  {
+    "Iron Man": {
+      "json_class": "Movie",
+      "name": "Iron Man",
+      "wiki_page": "https://en.wikipedia.org/wiki/The_First_Deadly_Sin",
+      "box_office": 0,
+      "year": 1980,
+      "actors": [
+        "Bruce Willis",
+        "Faye Dunaway",
+        "James Whitmore",
+        "Anthony Zerbe"
+      ]
+    },
+    "A4": {
+      "json_class": "Movie",
+      "name": "A4",
+      "wiki_page": "https://en.wikipedia.org/wiki/The_Verdict",
+      "box_office": 53977250,
+      "year": 1982,
+      "actors": [
+        "David Dukes",
+        "Bruce Willis",
+        "Faye Dunaway",
+        "James Whitmore"
+      ]
+    },
+    "B4": {
+      "json_class": "Movie",
+      "name": "B4",
+      "wiki_page": "https://en.wikipedia.org/wiki/Blind_Date_(1987_film)",
+      "box_office": 39,
+      "year": 1987,
+      "actors": [
+        "David Dukes",
+        "Brenda Vaccaro",
+        "Martin Gabel"
+      ]
+    },
+    "CS242": {
+      "json_class": "Movie",
+      "name": "CS242",
+      "wiki_page": "https://en.wikipedia.org/wiki/Sunset_(film)",
+      "box_office": 4594452,
+      "year": 1988,
+      "actors": [
+        "Anthony Zerbe",
+        "Paul Newman",
+        "Bruce Willis",
+        "Faye Dunaway"
+      ]
+    }
+  }
+]

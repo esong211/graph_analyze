@@ -1,0 +1,7 @@
+*.idea
+Graph_analyze/node_modules
+out
+Graph_analyze/src/*.nyc_output
+Graph_analyze/src/coverage
+Graph_analyze/src/node_modules
+Graph_analyze/src/graph.log

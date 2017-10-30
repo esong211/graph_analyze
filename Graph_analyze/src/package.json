@@ -1,0 +1,26 @@
+{
+  "name": "graph.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graph.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "fs": "0.0.1-security",
+    "mocha": "^4.0.1",
+    "plotly": "^1.0.6",
+    "supertest": "^3.0.0",
+    "vis": "^4.21.0"
+  },
+  "devDependencies": {
+    "should": "^13.1.2",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "run": "node graph.js",
+    "coverage": "nyc --reporter=html --reporter=text mocha",
+    "server": "node server.js"
+  },
+  "author": "SeokHyun Song",
+  "license": "ISC"
+}
